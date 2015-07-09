@@ -1,0 +1,6 @@
+GeneratedFiles/
+*.pro.user
+.vs/
+*.vcxproj.user
+debug/
+x64/
